@@ -1,9 +1,9 @@
 # 710-Project 
 
+<img src="https://user-images.githubusercontent.com/37386474/127756258-a5f5ed95-b439-4d06-9b6a-7b0404454fde.png" width="200" >
 by byteMe
 
 ## Senior Project
-
 
 7!0 (or 710) is an app that calculates the total cost of the rideshare. The user can split the bill with the passengers by sending them a receipt via text/email.
 
